@@ -1,0 +1,26 @@
+
+h1{
+  color: #888888;
+}
+.cls{  /*类样式要加.*/
+  color: #999999;
+  font-size: 13px;
+}
+#aa{
+  color: black;
+}
+
+a{
+  color: black;
+  text-decoration: none;/*装饰用于去掉下滑线*/
+}
+p{
+ text-indent: 50px; /*段落空两格*/
+}
+#ss{/*ID样式记得要加#*/
+  text-align: right;
+}
+div{
+  width: 65%;
+  margin: 0 auto;
+}
